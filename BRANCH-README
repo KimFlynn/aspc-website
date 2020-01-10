@@ -1,0 +1,6 @@
+# Purpose
+This branch will be used to create a scheduling feature on the aspc course selection. Through this students will be able to search for classes at specific times.
+
+This will be accomplished through two small input bars which allow for "start time" and "end time" to be inputted. Classes between these times will appear once searched.
+For example, if a student needs a class after 11am on Monday or Wednesday but before 1pm, the student can type "11" in the start time and "1" for the end time. 
+After searching, the classes that appear will start on or after 11, but finish before 1pm. 
